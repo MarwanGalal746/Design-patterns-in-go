@@ -1,7 +1,8 @@
 <div align="center">
   <br>
-  <h1>Design patterns</h1>
+  <h1>Design patterns in go</h1>
 </div>
+
 
 
 
