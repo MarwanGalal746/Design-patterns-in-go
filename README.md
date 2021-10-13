@@ -17,9 +17,9 @@ I use this repository to implement different design patterns in [Golang](https:/
 
 - ### [Behavioral patterns](Behavioral%20patterns)
 
-   - [Chain of responsibility pattern](Behavioral%20patterns/Chain%20of%20responsibility%20pattern)
+   - [Chain of responsibility pattern](Behavioral%20patterns/Chain%20of%20responsibility)
 
-   - [Observer pattern](Behavioral%20patterns/Observer%20pattern)
+   - [Observer pattern](Behavioral%20patterns/Observer)
    
      
 
