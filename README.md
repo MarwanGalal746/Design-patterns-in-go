@@ -22,5 +22,7 @@ I use this repository to implement different design patterns in [Golang](https:/
 
    - [Observer pattern](Behavioral%20patterns/Observer)
    
+   - [State pattern](Behavioral%20patterns/State)
+   
      
 

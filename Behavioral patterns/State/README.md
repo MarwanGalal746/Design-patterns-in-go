@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Observer pattern</h1>
+  <h1>State pattern</h1>
 </div>
 
 
